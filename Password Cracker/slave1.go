@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"net"
-	"github.com/bilalsaleem93/go-crypt"
+	"github.com/bilalsaleem93/crypto"
 	//"bufio"
 	//"strings"
 
