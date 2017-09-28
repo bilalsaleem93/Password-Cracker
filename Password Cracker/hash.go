@@ -5,7 +5,7 @@ import (
 	"fmt"
 	//"net"
 	//"os"
-	"github.com/kahootali/go-crypt"
+	"github.com/bilalsaleem93/crypt0"
 )
 
 func main() {
